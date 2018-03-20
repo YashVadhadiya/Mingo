@@ -140,8 +140,20 @@ color: #51cbe1;
  transition-duration: 0.8s;
 }
 
+label {
+    font-family: "Asap-Regular";
+    font-size: 25px;
+    color: white;
+    padding: 20px;
+}
 
+#invite {
+    margin: 20px auto;
+}
 
+#join {
+    margin: 20px auto;
+}
 
 
 /*-- responsive media queries --*/
